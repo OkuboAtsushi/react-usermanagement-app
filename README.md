@@ -1,2 +1,2 @@
-# react-usermanagement-app
+# react-user-management-app
 Created with CodeSandbox
